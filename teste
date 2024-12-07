@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Jogos</title>
+</head>
+<body>
+    <h1 style="color: blue;">Lista de Jogos Favoritos</h1>
+    <ul>
+        <li><strong style="color: green;">The Legend of Zelda: Breath of the Wild</strong> - Um dos jogos mais inovadores da <em>série Zelda</em>.</li>
+        <li><b style="color: red;">Red Dead Redemption 2</b> - Uma incrível experiência no Velho Oeste, com gráficos impressionantes.</li>
+        <li><em style="color: purple;">God of War (2018)</em> - Uma nova visão da mitologia nórdica, protagonizada por <strong>Kratos</strong>.</li>
+        <li><b style="color: orange;">The Witcher 3: Wild Hunt</b> - Um jogo repleto de missões envolventes e gráficos de alta qualidade.</li>
+        <li><strong style="color: brown;">Super Mario Odyssey</strong> - Uma aventura mágica com o icônico <b>Mario</b>.</li>
+    </ul>
+</body>
+</html>
